@@ -1,0 +1,32 @@
+{
+  "files": {
+    ".gitignore": "b2f8076f94eaae592e52e05de67607a3038e31a711f074d4e8daaa7b71d93ed8",
+    "analysis.py": "699a5143bbf2ae53e54cbf1096b7a05d9210094f1c2121fb59985dfcbdd6eb3d",
+    "data/decision_index.json": "34a763e75d0fa28822e08cea7c633ef75d98404976f3f7e81dec7574802ddc72",
+    "data/matched.json": "394aa52c4fae9c0f8e124eba2d003a4edbf107ffc4c888da2f2706878f04a0d8",
+    "data/schema_corrections.json": "6dae40bb44272ac2959e3f824ff7f8579cd2c3c2b3cb56b4f4d6f6b83eb7b66f",
+    "data/study1.json": "05809210afe4272a1ab965c22ad4f9a057c1df46bbb334fb03df811b595f73a9",
+    "data/study2.json": "76c00e186fb7ac7f023f02101c24690ce973bc437040de7634511e6b924ac893",
+    "experiment.json": "3d2e173f65704e7309c9c9d4bfbf5bef5fb102783a688e9d5cf407f3d826012a",
+    "figures/collective-performance.png": "e4e248743a4092e4d62d1474a3bdf0670a944b50cd2a5fef9298d847d3e6d98c",
+    "figures/collective-performance.svg": "581fa6c0714d2b2c0fa9b7b26abb740c215c7ef03fcd9a7e817262ae23be3772",
+    "figures/protocol.png": "a1daa811cb03256b680a2fd5aa3a996b5a38bb30feff96d5688c0b2b706f58e0",
+    "figures/protocol.svg": "074a7daa41362a8b1219e8716091a88412a095e423d583e140f8032dbed17aae",
+    "figures/retained-context.png": "f936848436dbae6d7bc8699d0468b7bb161bcc38b02252b6d34a0fc06dadb07a",
+    "figures/retained-context.svg": "d5dc3ace74dbe5b1fbe8826ff2e794e28965145fdab131bcecac5991dafbc927",
+    "figures.py": "198005da698c35a5f14905b239c62e0e8570a0346b156a3da321426d4aa883d0",
+    "games.py": "fa41dff9d6cfbaabd7fab4d1c4538c9476100b17cb51d4d0de91190ca0068e2b",
+    "prompts.py": "08a99c289b94ee8873cb31c97ef0ec519e2f1fc8ae5c2f9a81e5a8df4937d2ae",
+    "prompts_base.py": "96bf6d5d042e2eb990cb7e5a8a1024bf2b9b4b22bc2dd4a12fc581c39bd968de",
+    "reproduce.py": "1d2de9cb038c6ea9b57f5454248a7328123e03cb2bec0456d131ecbd0fcb3b00",
+    "requirements.txt": "9219ba01fa741ccca28c752db67a0ac180f6d9e55cb5198821ded5aa4b4099bd",
+    "results/changed_subset.json": "5e79e55ffbd4b501b40c5cacdfbe34bc89d43f1ae92ce7c6e558c2d5abc3f411",
+    "results/matched.json": "b837c9b42bd48c13d4968fc787d2a919808e880039885deca743d8f8d90a3ac3",
+    "results/repair_sensitivity.json": "c631b8385b160c73f81aab8415187460adc3b99acc7f83b32e3593cd1f962526",
+    "results/study1.json": "58e1756268eda060b57801511b5bd4b453686d0c7eed7593d24200a3f8f1997c",
+    "results/study1_exclusion.json": "6d4c9ed5e13c45ea1768b0dea0c7ea1ec532df5ba73fad12adb84a81f71c0d1c",
+    "results/study2.json": "7b1cc69be1e9cc01d6bac510b8435f5586f3c2e637b6655010662cdd3399990b",
+    "results/verification.json": "5cbebc7c9bba039f1f1068d4fc61f3e406976d81667eaaa0f9afad6f64e90baa",
+    "verify.py": "108f500ba89643d4c0c65560e2697f5a438de9151664b88479d0ba080ca8e978"
+  }
+}

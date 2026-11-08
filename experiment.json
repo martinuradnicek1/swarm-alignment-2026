@@ -1,0 +1,64 @@
+{
+  "title": "Choosing a cooperative rule is not enough",
+  "track": "The Science of Agent Networks",
+  "date": "2026-11-08",
+  "artifact_scope": "Offline reproduction of reported experiments, visible prompts, scores, statistics and figures from cleaned research data. Live provider logs, credentials, billing, development artifacts and report documents are not distributed.",
+  "data_units": {
+    "study1_blocks": 128,
+    "study2_blocks": 64,
+    "matched_source_blocks": 64,
+    "matched_responses_per_condition_per_block": 8
+  },
+  "model_settings": {
+    "gemma": {
+      "id": "gemma-4-31b-it",
+      "backend": "adaption",
+      "provider": "Adaption"
+    },
+    "sol": {
+      "id": "openai/gpt-6.1-sol",
+      "route": "openai",
+      "provider": "OpenAI",
+      "reasoning": {
+        "effort": "medium"
+      },
+      "backend": "openrouter"
+    }
+  },
+  "decoding": {
+    "gemma_temperature": 1,
+    "max_output_tokens": 16384,
+    "sol_temperature": "provider default",
+    "provider_managed_memory": false
+  },
+  "original_missing_vote": {
+    "study": "study1",
+    "block": "pg-0-r07",
+    "voting_condition": "0",
+    "seat": 1,
+    "imputed": false,
+    "all_eight_completions_same_selected_rule": true
+  },
+  "statistical_units": "Whole source blocks; repeated matched responses are averaged within their block.",
+  "matched_reset_scope": "The final message retains the second public round; only earlier turns are removed.",
+  "changed_subset_check": "Exploratory review-requested analysis, not a replacement primary.",
+  "provenance": {
+    "original_decisions": 6303,
+    "request_index": "SHA256 fingerprints of original visible inputs and parsed answers; no raw API logs included",
+    "code": "Pure game/prompt/statistical functions extracted from the completed experiments; standalone packaging and validation were added after data collection."
+  },
+  "references": [
+    {
+      "title": "CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas",
+      "authors": [
+        "Emanuel Tewolde",
+        "Xiao Zhang",
+        "David Guzman Piedrahita",
+        "Vincent Conitzer",
+        "Zhijing Jin"
+      ],
+      "url": "https://arxiv.org/html/2604.15267",
+      "contribution": "Prior games and mechanism families; experiment implementation and interventions developed during this sprint."
+    }
+  ]
+}

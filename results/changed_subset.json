@@ -1,0 +1,29 @@
+{
+  "exploratory": true,
+  "new_model_calls": 0,
+  "blocks": 56,
+  "repetitions_per_arm": 8,
+  "responses_per_arm": 448,
+  "setting_counts": {
+    "pd-0": 6,
+    "pd-1": 7,
+    "pd-2": 5,
+    "pd-3": 6,
+    "pg-0": 8,
+    "pg-1": 8,
+    "pg-2": 8,
+    "pg-3": 8
+  },
+  "weighting": "Equal weights for the 56 retained blocks; observed setting proportions held fixed",
+  "bootstrap_draws": 20000,
+  "seed": 202611111,
+  "means": {
+    "retained": 0.234375,
+    "reset": 0.13839285714285715
+  },
+  "retained_minus_reset": 0.09598214285714285,
+  "ci95": [
+    -0.006696428571428572,
+    0.19866071428571427
+  ]
+}

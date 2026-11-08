@@ -1,0 +1,34 @@
+[
+  {
+    "label": "pd-2-r05-rep07-reset",
+    "recorded_answer": [
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "label": "pg-3-r05-rep06-reset",
+    "recorded_answer": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "label": "pd-1-r07-rep05-reset",
+    "recorded_answer": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "label": "pd-2-r05-rep04-reset",
+    "recorded_answer": [
+      0,
+      1,
+      0
+    ]
+  }
+]

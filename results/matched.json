@@ -1,0 +1,144 @@
+{
+  "all": {
+    "blocks": 64,
+    "cells": {
+      "retained": {
+        "non_D_probability": 0.267578125,
+        "ci95": [
+          0.185546875,
+          0.3515625
+        ],
+        "responses": 512,
+        "pure_C": 0,
+        "pure_D": 375,
+        "pure_M": 137,
+        "mixtures": 0,
+        "blocks_with_variable_answers": 22
+      },
+      "reset": {
+        "non_D_probability": 0.12109375,
+        "ci95": [
+          0.07421875,
+          0.171875
+        ],
+        "responses": 512,
+        "pure_C": 0,
+        "pure_D": 450,
+        "pure_M": 62,
+        "mixtures": 0,
+        "blocks_with_variable_answers": 20
+      }
+    },
+    "retained_minus_reset": {
+      "mean": 0.146484375,
+      "ci95": [
+        0.048828125,
+        0.244140625
+      ],
+      "bounded_ci95": [
+        -0.1930410039351549,
+        0.4860097539351549
+      ],
+      "primary": true,
+      "block_sign_swap_p_two_sided": 0.00881991180088199
+    }
+  },
+  "pd": {
+    "blocks": 32,
+    "cells": {
+      "retained": {
+        "non_D_probability": 0.27734375,
+        "ci95": [
+          0.1640625,
+          0.3984375
+        ],
+        "responses": 256,
+        "pure_C": 0,
+        "pure_D": 185,
+        "pure_M": 71,
+        "mixtures": 0,
+        "blocks_with_variable_answers": 15
+      },
+      "reset": {
+        "non_D_probability": 0.0390625,
+        "ci95": [
+          0.00390625,
+          0.078125
+        ],
+        "responses": 256,
+        "pure_C": 0,
+        "pure_D": 246,
+        "pure_M": 10,
+        "mixtures": 0,
+        "blocks_with_variable_answers": 4
+      }
+    },
+    "retained_minus_reset": {
+      "mean": 0.23828125,
+      "ci95": [
+        0.13671875,
+        0.34375
+      ],
+      "bounded_ci95": [
+        -0.24188014565996035,
+        0.7184426456599604
+      ],
+      "primary": false
+    }
+  },
+  "pg": {
+    "blocks": 32,
+    "cells": {
+      "retained": {
+        "non_D_probability": 0.2578125,
+        "ci95": [
+          0.14453125,
+          0.37890625
+        ],
+        "responses": 256,
+        "pure_C": 0,
+        "pure_D": 190,
+        "pure_M": 66,
+        "mixtures": 0,
+        "blocks_with_variable_answers": 7
+      },
+      "reset": {
+        "non_D_probability": 0.203125,
+        "ci95": [
+          0.1171875,
+          0.296875
+        ],
+        "responses": 256,
+        "pure_C": 0,
+        "pure_D": 204,
+        "pure_M": 52,
+        "mixtures": 0,
+        "blocks_with_variable_answers": 16
+      }
+    },
+    "retained_minus_reset": {
+      "mean": 0.0546875,
+      "ci95": [
+        -0.1171875,
+        0.22265625
+      ],
+      "bounded_ci95": [
+        -0.42547389565996035,
+        0.5348488956599604
+      ],
+      "primary": false
+    }
+  },
+  "descriptive_rule_subsets": {
+    "False": {
+      "blocks": 8,
+      "retained": 0.5,
+      "reset": 0.0
+    },
+    "True": {
+      "blocks": 56,
+      "retained": 0.234375,
+      "reset": 0.13839285714285715
+    }
+  }
+}

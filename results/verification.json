@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "cleaned_decisions_verified": 6303,
+  "exact_prompt_and_answer_fingerprints": true,
+  "independent_payoff_recalculation": true,
+  "missing_vote_invariance": true,
+  "network_calls": 0,
+  "numerical_results_match": true,
+  "result_files": 6,
+  "figures_regenerated": true
+}
