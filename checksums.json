@@ -1,6 +1,7 @@
 {
   "files": {
     ".gitignore": "b2f8076f94eaae592e52e05de67607a3038e31a711f074d4e8daaa7b71d93ed8",
+    "README.md": "bf0f837d76bda97dfea5d744bc0f692a33ded196408cc4f378fc957c700a67b2",
     "analysis.py": "699a5143bbf2ae53e54cbf1096b7a05d9210094f1c2121fb59985dfcbdd6eb3d",
     "data/decision_index.json": "34a763e75d0fa28822e08cea7c633ef75d98404976f3f7e81dec7574802ddc72",
     "data/matched.json": "394aa52c4fae9c0f8e124eba2d003a4edbf107ffc4c888da2f2706878f04a0d8",
@@ -8,13 +9,13 @@
     "data/study1.json": "05809210afe4272a1ab965c22ad4f9a057c1df46bbb334fb03df811b595f73a9",
     "data/study2.json": "76c00e186fb7ac7f023f02101c24690ce973bc437040de7634511e6b924ac893",
     "experiment.json": "3d2e173f65704e7309c9c9d4bfbf5bef5fb102783a688e9d5cf407f3d826012a",
+    "figures.py": "198005da698c35a5f14905b239c62e0e8570a0346b156a3da321426d4aa883d0",
     "figures/collective-performance.png": "e4e248743a4092e4d62d1474a3bdf0670a944b50cd2a5fef9298d847d3e6d98c",
     "figures/collective-performance.svg": "581fa6c0714d2b2c0fa9b7b26abb740c215c7ef03fcd9a7e817262ae23be3772",
     "figures/protocol.png": "a1daa811cb03256b680a2fd5aa3a996b5a38bb30feff96d5688c0b2b706f58e0",
     "figures/protocol.svg": "074a7daa41362a8b1219e8716091a88412a095e423d583e140f8032dbed17aae",
     "figures/retained-context.png": "f936848436dbae6d7bc8699d0468b7bb161bcc38b02252b6d34a0fc06dadb07a",
     "figures/retained-context.svg": "d5dc3ace74dbe5b1fbe8826ff2e794e28965145fdab131bcecac5991dafbc927",
-    "figures.py": "198005da698c35a5f14905b239c62e0e8570a0346b156a3da321426d4aa883d0",
     "games.py": "fa41dff9d6cfbaabd7fab4d1c4538c9476100b17cb51d4d0de91190ca0068e2b",
     "prompts.py": "08a99c289b94ee8873cb31c97ef0ec519e2f1fc8ae5c2f9a81e5a8df4937d2ae",
     "prompts_base.py": "96bf6d5d042e2eb990cb7e5a8a1024bf2b9b4b22bc2dd4a12fc581c39bd968de",
